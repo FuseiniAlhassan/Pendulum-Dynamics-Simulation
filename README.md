@@ -7,8 +7,6 @@ This script models the motion of a simple pendulum using two approaches: the ana
 
 # README.md
 
-# Pendulum Dynamics Visualization
-
 A Python script to compare and animate the motion of a simple pendulum under small-angle approximation versus the full nonlinear model.
 
 ## Features
