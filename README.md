@@ -5,6 +5,6 @@
 
 
 
-
+![](figures_pendulum/pendulum_theta_vs_time.png)
 
 
